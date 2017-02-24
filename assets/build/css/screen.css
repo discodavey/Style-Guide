@@ -1,0 +1,9 @@
+html { font-size: 62.5%; }
+
+body { margin: 0; font: 16px arial; font-size: 1.6rem; }
+
+.container { margin: 0 auto; width: 1000px; }
+
+.colour-brand { background: #ccc; border: 1px solid black; }
+
+.colour-brand-text { background: #fff; }
